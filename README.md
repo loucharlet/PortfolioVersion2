@@ -7,7 +7,7 @@
 
 ## 🚀 Déploiement
 
-🔗 **Site en ligne :** [https://portfolioloucharlet.netlify.app](https://portfolioloucharlet.netlify.app/#monparcours)
+🔗 **Site en ligne :** [https://portfolioloucharlet.netlify.app](https://portfolioloucharlet.netlify.app)
 
 Ce site est hébergé sur **Netlify**, avec build automatique depuis le dépôt GitHub.  
 Chaque push sur la branche `main` déclenche une mise à jour du site en ligne.
